@@ -1,0 +1,34 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/coin/9",
+                    "weight": 300
+                },
+	      {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/weapon/9",
+                    "weight": 150
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/skill/9",
+                    "weight": 100
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/potion/9",
+                    "weight": 200
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/pickaxe/9",
+                    "weight": 250
+                }
+            ]
+        }
+    ]
+}

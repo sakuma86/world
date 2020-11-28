@@ -1,0 +1,47 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:grass",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{display:{Name:\"rare6\"}}"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:3s,lvl:1s}],display:{Name:\"item0311\"}}"
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:3s,lvl:1s}],display:{Name:\"item0312\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

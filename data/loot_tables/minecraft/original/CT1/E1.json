@@ -1,0 +1,31 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 4,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:1s,lvl:1s}],display:{Name:\"item0104\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:1s,lvl:1s}],display:{Name:\"item0105\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

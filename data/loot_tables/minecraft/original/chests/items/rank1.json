@@ -1,0 +1,29 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/coin/1",
+                    "weight": 400
+                },
+	      {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/weapon/1",
+                    "weight": 200
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/skill/1",
+                    "weight": 133
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/potion/1",
+                    "weight": 267
+                }
+            ]
+        }
+    ]
+}

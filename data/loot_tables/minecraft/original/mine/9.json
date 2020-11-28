@@ -1,0 +1,112 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "empty",
+                    "weight": 400
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 40,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0601\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 50,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0602\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 140,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0603\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 159,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0604\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 60,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0605\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 60,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0606\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 60,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0607\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 21,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0608\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 10,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:6s,lvl:1s}],display:{Name:\"item0609\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 4,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:1s,lvl:1s}],display:{Name:\"item0101\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:1s,lvl:1s}],display:{Name:\"item0102\"}}"
+                        }
+                    ]
+                },
+	      {
+                    "type": "item",
+                    "name": "minecraft:stone",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+			"tag": "{ench:[{id:1s,lvl:1s}],display:{Name:\"item0103\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

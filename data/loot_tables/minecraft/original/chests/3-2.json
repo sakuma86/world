@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/rank1",
+                    "weight": 300
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/rank2",
+                    "weight": 450
+                },
+                {
+                    "type": "loot_table",
+                    "name": "minecraft:original/chests/items/rank3",
+                    "weight": 250
+                }
+            ]
+        }
+    ]
+}
